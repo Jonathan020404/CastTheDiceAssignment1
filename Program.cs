@@ -37,7 +37,7 @@ class Program
                 }
                 else
                 {
-                    Console.WriteLine("Exiting game...");
+                    Console.WriteLine("Exiting game");
                     Environment.Exit(0);
                 }
             }
